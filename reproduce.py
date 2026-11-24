@@ -1,12 +1,13 @@
 """Recalculate manuscript tables 5–10 from saved model outputs and references."""
 import argparse
 from collections import defaultdict
+import csv
 import gzip
 import hashlib
 import json
 import math
 from pathlib import Path
-from statistics import mean
+from statistics import mean, median
 import sys
 
 HERE = Path(__file__).resolve().parent
@@ -116,6 +117,7 @@ def contrast(rows, low_arm, high_arm, metric, stats, seed, alpha):
     items = [(cid, family, high[cid]-low[cid]) for cid in sorted(low)]
     out = stratified_comparison(items, {family:len(items)}, stats["bootstrap_resamples"], alpha, seed)
     out["means"] = {low_arm:mean(low.values()), high_arm:mean(high.values())}
+    out["positive_corpora"] = sum(delta > 0 for _, _, delta in items)
     out["conclusion"] = interval_conclusion(out["interval"], stats["practical_margin"])
     return out
 
@@ -150,6 +152,9 @@ def calculate(data):
         verify_contrast(result, original_pairs[family])
         output["table6"][family] = result
         if family == "musique":
+            exploratory = contrast(rows, "V", "TG75", "quality", stats, seed, stats["alpha"])
+            exploratory["scope"] = "post-hoc; pointwise interval without multiplicity adjustment"
+            output["exploratory_tg75_vs_vector"] = exploratory
             output["table7"] = {
                 arm:dict(mean_context_tokens=mean(r["context_tokens"] for r in rows if r["arm"] == arm),
                          visible_supports=sum(r["support_visible"] for r in rows if r["arm"] == arm),
@@ -180,7 +185,36 @@ def calculate(data):
         output[f"table{table_num}"] = dict(mean_context_tokens=mean(p[0][0] for p in paired.values()),
                                             questions=len(paired), **results)
         nrows += len(rows)
+    output["musique_quality_cost"] = quality_cost(data)
+    output["development_qwen3b"] = development_counts(data)
     return output, nrows
+
+
+def quality_cost(data):
+    with (data / "musique_cost.csv").open(encoding="utf-8", newline="") as file:
+        rows = list(csv.DictReader(file))
+    results = {}
+    for arm in ("V", "TG75"):
+        values = [row for row in rows if row["arm"] == arm]
+        results[arm] = {
+            "corpora": len(values),
+            "mean_query_seconds": mean(float(row["query_seconds"]) for row in values),
+            "mean_generation_seconds": mean(float(row["generation_seconds"]) for row in values),
+            "median_index_minutes": median(float(row["index_seconds"]) for row in values) / 60,
+        }
+    return results
+
+
+def development_counts(data):
+    with (data / "development_qwen3b_summary.csv").open(encoding="utf-8-sig", newline="") as file:
+        rows = list(csv.DictReader(file))
+    return {
+        "answers": sum(int(row["questions"]) for row in rows),
+        "by_condition": [
+            {key: int(row[key]) if key in ("corpora", "questions") else row[key]
+             for key in ("family", "arm", "corpora", "questions")} for row in rows
+        ],
+    }
 
 
 if __name__ == "__main__":
