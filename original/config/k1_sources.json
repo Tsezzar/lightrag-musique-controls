@@ -1,0 +1,45 @@
+{
+  "download_directory": "data/k1_sources",
+  "manifest": "results/k1_inputs/source_manifest_v2.json",
+  "maximum_download_bytes": 1073741824,
+  "files": [
+    {
+      "name": "pubmedqa_labeled.json",
+      "purpose": "new_labeled_biomedical_source",
+      "url": "https://raw.githubusercontent.com/pubmedqa/pubmedqa/1cbae8e92f72f20c8d3747cbb3bf5bc53554d997/data/ori_pqal.json",
+      "revision": "1cbae8e92f72f20c8d3747cbb3bf5bc53554d997",
+      "expected_bytes": 2584787,
+      "git_blob_sha1": "38db7750761c78950ed32303e7545bdaa513390c"
+    },
+    {
+      "name": "cuad.zip",
+      "purpose": "new_legal_source",
+      "url": "https://raw.githubusercontent.com/The-Atticus-Project/cuad/67faa0e6023b04fcaae6cc09497ab00e5d63a2a2/data.zip",
+      "revision": "67faa0e6023b04fcaae6cc09497ab00e5d63a2a2",
+      "expected_bytes": 18309308,
+      "git_blob_sha1": "1ae94ff0a9b70b2e3b9b8d215737c8bfae460ddc"
+    },
+    {
+      "name": "ragrouter_wikipedia.json",
+      "purpose": "historical_source_exclusion_only",
+      "url": "https://huggingface.co/datasets/Chaplain0908/RAGRouter/resolve/abff378d9202caba636aa4d5bb9243db8103f70f/data/musique/Corpus.json",
+      "revision": "abff378d9202caba636aa4d5bb9243db8103f70f",
+      "expected_bytes": 11320817,
+      "sha256": "1ab56f734729dec791cee247b000b1bb3bf91d2da70b06e532a086ecb5567050"
+    },
+    {
+      "name": "ragrouter_legal.json",
+      "purpose": "historical_source_exclusion_only",
+      "url": "https://huggingface.co/datasets/Chaplain0908/RAGRouter/resolve/abff378d9202caba636aa4d5bb9243db8103f70f/data/ultraDomain_legal/Corpus.json",
+      "revision": "abff378d9202caba636aa4d5bb9243db8103f70f",
+      "expected_bytes": 22269679,
+      "sha256": "61dd83d5634642983a53daa2a781c9ef415afe41362da7e1af29bf967582def5"
+    },
+    {
+      "name": "pubmedqa_unlabeled.parquet",
+      "purpose": "unlabeled_distractors_only",
+      "url": "https://huggingface.co/datasets/qiaojin/PubMedQA/resolve/9001f2853fb87cab8d220904e0de81ac6973b318/pqa_unlabeled/train-00000-of-00001.parquet",
+      "revision": "9001f2853fb87cab8d220904e0de81ac6973b318"
+    }
+  ]
+}

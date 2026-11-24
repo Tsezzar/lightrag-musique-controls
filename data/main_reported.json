@@ -1,0 +1,503 @@
+{
+  "scope": "confirmatory",
+  "conditions": 3096,
+  "corpora": 43,
+  "terminal_statuses": {
+    "complete": 3096
+  },
+  "transport_attempts": 0,
+  "invalid_answers": 1,
+  "summary": [
+    {
+      "family": "cuad",
+      "arm": "BM",
+      "seed": 20261110,
+      "corpora": 16,
+      "questions": 192,
+      "quality": 0.5869242141300965,
+      "invalid": 0,
+      "truncated": 0,
+      "mean_generation_seconds": 2.8659281848963474
+    },
+    {
+      "family": "cuad",
+      "arm": "G100",
+      "seed": 20261110,
+      "corpora": 16,
+      "questions": 192,
+      "quality": 0.4643229166666667,
+      "invalid": 0,
+      "truncated": 0,
+      "mean_generation_seconds": 2.4064198041667924
+    },
+    {
+      "family": "cuad",
+      "arm": "T100",
+      "seed": 20261110,
+      "corpora": 16,
+      "questions": 192,
+      "quality": 0.5785155034235916,
+      "invalid": 0,
+      "truncated": 0,
+      "mean_generation_seconds": 2.156880127605897
+    },
+    {
+      "family": "cuad",
+      "arm": "T75",
+      "seed": 20261110,
+      "corpora": 16,
+      "questions": 192,
+      "quality": 0.5702422288359789,
+      "invalid": 0,
+      "truncated": 0,
+      "mean_generation_seconds": 1.3024238161456196
+    },
+    {
+      "family": "cuad",
+      "arm": "TG75",
+      "seed": 20261110,
+      "corpora": 16,
+      "questions": 192,
+      "quality": 0.6224890356783739,
+      "invalid": 1,
+      "truncated": 0,
+      "mean_generation_seconds": 1.7237243479171411
+    },
+    {
+      "family": "cuad",
+      "arm": "V",
+      "seed": 20261110,
+      "corpora": 16,
+      "questions": 192,
+      "quality": 0.5752066798941798,
+      "invalid": 0,
+      "truncated": 0,
+      "mean_generation_seconds": 2.387689519790759
+    },
+    {
+      "family": "musique",
+      "arm": "BM",
+      "seed": 20261110,
+      "corpora": 16,
+      "questions": 192,
+      "quality": 0.318704891479066,
+      "invalid": 0,
+      "truncated": 0,
+      "mean_generation_seconds": 1.7440451249995021
+    },
+    {
+      "family": "musique",
+      "arm": "G100",
+      "seed": 20261110,
+      "corpora": 16,
+      "questions": 192,
+      "quality": 0.4296201043823326,
+      "invalid": 0,
+      "truncated": 0,
+      "mean_generation_seconds": 1.9774614828126384
+    },
+    {
+      "family": "musique",
+      "arm": "T100",
+      "seed": 20261110,
+      "corpora": 16,
+      "questions": 192,
+      "quality": 0.4207188423278848,
+      "invalid": 0,
+      "truncated": 0,
+      "mean_generation_seconds": 1.3622049526024966
+    },
+    {
+      "family": "musique",
+      "arm": "T75",
+      "seed": 20261110,
+      "corpora": 16,
+      "questions": 192,
+      "quality": 0.38378010878010876,
+      "invalid": 0,
+      "truncated": 0,
+      "mean_generation_seconds": 0.46012657083413916
+    },
+    {
+      "family": "musique",
+      "arm": "TG75",
+      "seed": 20261110,
+      "corpora": 16,
+      "questions": 192,
+      "quality": 0.5210556081649832,
+      "invalid": 0,
+      "truncated": 0,
+      "mean_generation_seconds": 0.7868303197918369
+    },
+    {
+      "family": "musique",
+      "arm": "V",
+      "seed": 20261110,
+      "corpora": 16,
+      "questions": 192,
+      "quality": 0.4002783453248879,
+      "invalid": 0,
+      "truncated": 0,
+      "mean_generation_seconds": 1.4961410828124524
+    },
+    {
+      "family": "pubmedqa",
+      "arm": "BM",
+      "seed": 20261110,
+      "corpora": 11,
+      "questions": 132,
+      "quality": 0.696969696969697,
+      "invalid": 0,
+      "truncated": 0,
+      "mean_generation_seconds": 1.8684857962134904
+    },
+    {
+      "family": "pubmedqa",
+      "arm": "G100",
+      "seed": 20261110,
+      "corpora": 11,
+      "questions": 132,
+      "quality": 0.5227272727272727,
+      "invalid": 0,
+      "truncated": 0,
+      "mean_generation_seconds": 1.983144587880595
+    },
+    {
+      "family": "pubmedqa",
+      "arm": "T100",
+      "seed": 20261110,
+      "corpora": 11,
+      "questions": 132,
+      "quality": 0.7045454545454546,
+      "invalid": 0,
+      "truncated": 0,
+      "mean_generation_seconds": 1.228619337119612
+    },
+    {
+      "family": "pubmedqa",
+      "arm": "T75",
+      "seed": 20261110,
+      "corpora": 11,
+      "questions": 132,
+      "quality": 0.7045454545454545,
+      "invalid": 0,
+      "truncated": 0,
+      "mean_generation_seconds": 0.5004620984854585
+    },
+    {
+      "family": "pubmedqa",
+      "arm": "TG75",
+      "seed": 20261110,
+      "corpora": 11,
+      "questions": 132,
+      "quality": 0.6666666666666666,
+      "invalid": 0,
+      "truncated": 0,
+      "mean_generation_seconds": 0.8719159613635081
+    },
+    {
+      "family": "pubmedqa",
+      "arm": "V",
+      "seed": 20261110,
+      "corpora": 11,
+      "questions": 132,
+      "quality": 0.7045454545454546,
+      "invalid": 0,
+      "truncated": 0,
+      "mean_generation_seconds": 1.440621277272867
+    }
+  ],
+  "paired": [
+    {
+      "estimate": 0.043973532254782274,
+      "interval": [
+        -0.0012440023084554083,
+        0.09251076325295082
+      ],
+      "independent_corpora": 16,
+      "source_counts": {
+        "cuad": 16
+      },
+      "source_weights": "equal",
+      "resamples": 20000,
+      "alpha": 0.025,
+      "seed": 20261110,
+      "family": "cuad",
+      "contrast": "TG75-T100",
+      "practical_margin": 0.02,
+      "practical_conclusion": "inconclusive",
+      "direction": "unresolved",
+      "leave_one_out_estimates": [
+        0.046905101071767756,
+        0.05246065662732332,
+        0.047588522588522614,
+        0.04346594763261433,
+        0.04870404287070955,
+        0.046349545516212204,
+        0.0413495455162122,
+        0.05431250847917516,
+        0.04597917514584182,
+        0.0413495455162122,
+        0.029497693664360336,
+        0.041776895943562625,
+        0.04042361959028628,
+        0.040714624881291565,
+        0.0413495455162122,
+        0.0413495455162122
+      ],
+      "corpus_deltas": [
+        {
+          "corpus_id": "cuad-002",
+          "delta": 0.0
+        },
+        {
+          "corpus_id": "cuad-005",
+          "delta": -0.08333333333333337
+        },
+        {
+          "corpus_id": "cuad-006",
+          "delta": -0.010251322751322789
+        },
+        {
+          "corpus_id": "cuad-008",
+          "delta": 0.051587301587301515
+        },
+        {
+          "corpus_id": "cuad-010",
+          "delta": -0.026984126984127
+        },
+        {
+          "corpus_id": "cuad-012",
+          "delta": 0.008333333333333304
+        },
+        {
+          "corpus_id": "cuad-013",
+          "delta": 0.08333333333333331
+        },
+        {
+          "corpus_id": "cuad-014",
+          "delta": -0.11111111111111105
+        },
+        {
+          "corpus_id": "cuad-015",
+          "delta": 0.013888888888889062
+        },
+        {
+          "corpus_id": "cuad-017",
+          "delta": 0.08333333333333331
+        },
+        {
+          "corpus_id": "cuad-019",
+          "delta": 0.2611111111111113
+        },
+        {
+          "corpus_id": "cuad-022",
+          "delta": 0.07692307692307693
+        },
+        {
+          "corpus_id": "cuad-023",
+          "delta": 0.09722222222222221
+        },
+        {
+          "corpus_id": "cuad-024",
+          "delta": 0.09285714285714286
+        },
+        {
+          "corpus_id": "cuad-025",
+          "delta": 0.08333333333333337
+        },
+        {
+          "corpus_id": "cuad-028",
+          "delta": 0.08333333333333337
+        }
+      ]
+    },
+    {
+      "estimate": 0.1003367658370983,
+      "interval": [
+        0.05610099232979884,
+        0.14874251934715696
+      ],
+      "independent_corpora": 16,
+      "source_counts": {
+        "musique": 16
+      },
+      "source_weights": "equal",
+      "resamples": 20000,
+      "alpha": 0.05,
+      "seed": 20261110,
+      "family": "musique",
+      "contrast": "TG75-T100",
+      "practical_margin": 0.02,
+      "practical_conclusion": "practically_better",
+      "direction": "positive",
+      "leave_one_out_estimates": [
+        0.10221106874475669,
+        0.10133805287174083,
+        0.09591477244846042,
+        0.10424810578179373,
+        0.11062814549516678,
+        0.10535921689290487,
+        0.10248528526897323,
+        0.10226397879766674,
+        0.10325604228973025,
+        0.09035921689290485,
+        0.10025339678708474,
+        0.09850736504105301,
+        0.10884959176625844,
+        0.08934911588280384,
+        0.08758143911512707,
+        0.10278345931714727
+      ],
+      "corpus_deltas": [
+        {
+          "corpus_id": "musique-000",
+          "delta": 0.0722222222222223
+        },
+        {
+          "corpus_id": "musique-001",
+          "delta": 0.08531746031746035
+        },
+        {
+          "corpus_id": "musique-002",
+          "delta": 0.16666666666666663
+        },
+        {
+          "corpus_id": "musique-003",
+          "delta": 0.041666666666666685
+        },
+        {
+          "corpus_id": "musique-007",
+          "delta": -0.05403392903392906
+        },
+        {
+          "corpus_id": "musique-009",
+          "delta": 0.024999999999999967
+        },
+        {
+          "corpus_id": "musique-010",
+          "delta": 0.0681089743589744
+        },
+        {
+          "corpus_id": "musique-011",
+          "delta": 0.0714285714285714
+        },
+        {
+          "corpus_id": "musique-012",
+          "delta": 0.05654761904761901
+        },
+        {
+          "corpus_id": "musique-013",
+          "delta": 0.25
+        },
+        {
+          "corpus_id": "musique-014",
+          "delta": 0.10158730158730167
+        },
+        {
+          "corpus_id": "musique-015",
+          "delta": 0.12777777777777777
+        },
+        {
+          "corpus_id": "musique-026",
+          "delta": -0.027355623100303927
+        },
+        {
+          "corpus_id": "musique-027",
+          "delta": 0.26515151515151514
+        },
+        {
+          "corpus_id": "musique-028",
+          "delta": 0.2916666666666667
+        },
+        {
+          "corpus_id": "musique-029",
+          "delta": 0.06363636363636371
+        }
+      ]
+    },
+    {
+      "estimate": -0.03787878787878789,
+      "interval": [
+        -0.09090909090909093,
+        0.015151515151515148
+      ],
+      "independent_corpora": 11,
+      "source_counts": {
+        "pubmedqa": 11
+      },
+      "source_weights": "equal",
+      "resamples": 20000,
+      "alpha": 0.025,
+      "seed": 20261110,
+      "family": "pubmedqa",
+      "contrast": "TG75-T100",
+      "practical_margin": 0.02,
+      "practical_conclusion": "inconclusive",
+      "direction": "unresolved",
+      "leave_one_out_estimates": [
+        -0.04166666666666667,
+        -0.03333333333333334,
+        -0.04166666666666667,
+        -0.05000000000000001,
+        -0.04166666666666667,
+        -0.03333333333333335,
+        -0.04166666666666667,
+        -0.03333333333333334,
+        -0.05,
+        -0.025000000000000012,
+        -0.025
+      ],
+      "corpus_deltas": [
+        {
+          "corpus_id": "pubmedqa-012",
+          "delta": 0.0
+        },
+        {
+          "corpus_id": "pubmedqa-013",
+          "delta": -0.08333333333333337
+        },
+        {
+          "corpus_id": "pubmedqa-015",
+          "delta": 0.0
+        },
+        {
+          "corpus_id": "pubmedqa-016",
+          "delta": 0.08333333333333337
+        },
+        {
+          "corpus_id": "pubmedqa-018",
+          "delta": 0.0
+        },
+        {
+          "corpus_id": "pubmedqa-019",
+          "delta": -0.08333333333333326
+        },
+        {
+          "corpus_id": "pubmedqa-021",
+          "delta": 0.0
+        },
+        {
+          "corpus_id": "pubmedqa-022",
+          "delta": -0.08333333333333337
+        },
+        {
+          "corpus_id": "pubmedqa-023",
+          "delta": 0.08333333333333326
+        },
+        {
+          "corpus_id": "pubmedqa-024",
+          "delta": -0.16666666666666663
+        },
+        {
+          "corpus_id": "pubmedqa-026",
+          "delta": -0.16666666666666674
+        }
+      ]
+    }
+  ],
+  "reference_policy": "published references; no judge-generated labels",
+  "coverage_definition": "CUAD: complete annotated spans; MuSiQue/PubMedQA: any visible characters of support record, not proof of sufficient facts",
+  "inference_error_policy": "all terminal model replies retained; transport missingness is not a zero",
+  "interpretation": "fixed prospective cohort, corpus-level intervals"
+}

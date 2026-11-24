@@ -1,0 +1,12 @@
+{
+  "download_directory": "data/k1_ner",
+  "manifest": "results/k1_inputs/ner_source_manifest.json",
+  "maximum_download_bytes": 20000000,
+  "files": [{
+    "name": "en_core_web_sm-3.8.0-py3-none-any.whl",
+    "purpose": "original_article_cpu_ner_model_data_only",
+    "url": "https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.8.0/en_core_web_sm-3.8.0-py3-none-any.whl",
+    "revision": "374ece89b2099818244f5a65ef466b89c0c392ae",
+    "expected_bytes": 12806118
+  }]
+}

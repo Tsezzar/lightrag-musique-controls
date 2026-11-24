@@ -1,0 +1,13 @@
+{
+  "methods": ["bm25", "vector", "lightrag"],
+  "indexed_text": "original_block_text_only",
+  "document_titles": "evidence_display_metadata_only",
+  "candidate_blocks": 20,
+  "bm25": {"package": "rank-bm25", "version": "0.2.2", "k1": 1.5, "b": 0.75, "epsilon": 0.25,
+           "tokenization": "unicode_word_regex_after_casefold_no_stemming"},
+  "vector": {"similarity": "cosine_float32_on_unit_BGE_M3_vectors", "tie_break": "stable_public_block_order"},
+  "reranker": false,
+  "control_types": ["closed_book", "gold_context"],
+  "extraction_ablations": ["six_entity_cap", "qwen14_extractor"],
+  "second_generator_matrices": {"A": "all_test_corpora", "B": "preselected_ablation_corpora_only"}
+}

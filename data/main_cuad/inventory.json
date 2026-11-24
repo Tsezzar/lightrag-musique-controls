@@ -1,0 +1,18 @@
+{
+  "cases": 1152,
+  "model": {
+    "digest": "7bb3f324cafc5ba3a2e2ed4f8b45bd2eda4c5c7b15494fcfd0100ecfaf41a3d7",
+    "name": "qwen2.5:14b-instruct-q5_K_M"
+  },
+  "options": {
+    "context_tokens": 8192,
+    "output_tokens": 1024,
+    "seed": 20261110,
+    "temperature": 0
+  },
+  "original_sha256": {
+    "queue": "70604f42b0d64097c02692afc9738bd2d37fd677a5ef56a5312d84e3781fb44a",
+    "contexts": "2ab646a6dd0c609793dde384919a304e40be706b5d19ff54ccfdf3d3618dc9ed",
+    "raw_calls": "81548708c005337af62c0fb3b8ec95891aea54814e69bcd5acd6e35414448af7"
+  }
+}

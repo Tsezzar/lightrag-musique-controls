@@ -1,0 +1,19 @@
+{
+  "download_directory": "data/k1_tokenizers",
+  "manifest": "results/k1_inputs/tokenizer_manifest_v2.json",
+  "maximum_download_bytes": 100000000,
+  "files": [
+    {
+      "name": "qwen_tokenizer.json",
+      "purpose": "primary_generator_token_counting_only",
+      "url": "https://huggingface.co/Qwen/Qwen2.5-14B-Instruct/resolve/cf98f3b3bbb457ad9e2bb7baf9a0125b6b88caa8/tokenizer.json",
+      "revision": "cf98f3b3bbb457ad9e2bb7baf9a0125b6b88caa8"
+    },
+    {
+      "name": "gemma_tokenizer.json",
+      "purpose": "second_generator_token_counting_only",
+      "url": "https://huggingface.co/google/gemma-4-31B-it/resolve/842da3794eaa0b77d5f08bae87a17459d91ff475/tokenizer.json",
+      "revision": "842da3794eaa0b77d5f08bae87a17459d91ff475"
+    }
+  ]
+}

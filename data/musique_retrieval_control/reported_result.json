@@ -1,0 +1,213 @@
+{
+  "scope": "post-main within-corpus test of personalized PageRank using the frozen LightRAG extraction",
+  "questions": 192,
+  "corpora": 16,
+  "responses": 384,
+  "model": {
+    "digest": "7bb3f324cafc5ba3a2e2ed4f8b45bd2eda4c5c7b15494fcfd0100ecfaf41a3d7",
+    "name": "qwen2.5:14b-instruct-q5_K_M"
+  },
+  "equal_context_pairs": 192,
+  "equal_full_prompt_pairs": 192,
+  "differing_contexts": 154,
+  "differing_top6": 88,
+  "context_tokens": {
+    "mean": 3999.8958333333335,
+    "minimum": 3998,
+    "maximum": 4000
+  },
+  "terminal_statuses": {
+    "complete": 384
+  },
+  "comparisons": {
+    "f1": {
+      "estimate": 0.005960840347528133,
+      "interval": [
+        -0.01250624408227068,
+        0.026083300088471872
+      ],
+      "independent_corpora": 16,
+      "source_counts": {
+        "musique": 16
+      },
+      "source_weights": "equal",
+      "resamples": 20000,
+      "alpha": 0.05,
+      "seed": 20261110,
+      "means": {
+        "FLAT_RECORDS": 0.3266907820462966,
+        "GRAPH_PPR": 0.33265162239382473
+      },
+      "positive_corpora": 5,
+      "tied_corpora": 4,
+      "corpus_deltas": {
+        "musique-000": -0.004123777957449337,
+        "musique-001": -0.0025354969574036823,
+        "musique-002": -0.0071428571428571175,
+        "musique-003": 0.0,
+        "musique-007": -0.05555555555555558,
+        "musique-009": 0.0,
+        "musique-010": 0.09126984126984128,
+        "musique-011": -0.00864197530864197,
+        "musique-012": 0.03387096774193549,
+        "musique-013": 0.0,
+        "musique-014": 0.0532118181597771,
+        "musique-015": 0.07795698924731181,
+        "musique-026": 0.0003968253968253954,
+        "musique-027": -0.033333333333333326,
+        "musique-028": 0.0,
+        "musique-029": -0.04999999999999993
+      },
+      "practical_margin": 0.02,
+      "conclusion": "inconclusive"
+    },
+    "recall_at_6": {
+      "estimate": -0.0026041666666666713,
+      "interval": [
+        -0.007812500000000014,
+        0.0
+      ],
+      "independent_corpora": 16,
+      "source_counts": {
+        "musique": 16
+      },
+      "source_weights": "equal",
+      "resamples": 20000,
+      "alpha": 0.05,
+      "seed": 20261110,
+      "means": {
+        "FLAT_RECORDS": 0.9778645833333334,
+        "GRAPH_PPR": 0.9752604166666666
+      },
+      "positive_corpora": 0,
+      "tied_corpora": 15,
+      "corpus_deltas": {
+        "musique-000": 0.0,
+        "musique-001": 0.0,
+        "musique-002": 0.0,
+        "musique-003": 0.0,
+        "musique-007": -0.04166666666666674,
+        "musique-009": 0.0,
+        "musique-010": 0.0,
+        "musique-011": 0.0,
+        "musique-012": 0.0,
+        "musique-013": 0.0,
+        "musique-014": 0.0,
+        "musique-015": 0.0,
+        "musique-026": 0.0,
+        "musique-027": 0.0,
+        "musique-028": 0.0,
+        "musique-029": 0.0
+      }
+    },
+    "delivered_recall": {
+      "estimate": 0.0,
+      "interval": [
+        0.0,
+        0.0
+      ],
+      "independent_corpora": 16,
+      "source_counts": {
+        "musique": 16
+      },
+      "source_weights": "equal",
+      "resamples": 20000,
+      "alpha": 0.05,
+      "seed": 20261110,
+      "means": {
+        "FLAT_RECORDS": 0.9986979166666666,
+        "GRAPH_PPR": 0.9986979166666666
+      },
+      "positive_corpora": 0,
+      "tied_corpora": 16,
+      "corpus_deltas": {
+        "musique-000": 0.0,
+        "musique-001": 0.0,
+        "musique-002": 0.0,
+        "musique-003": 0.0,
+        "musique-007": 0.0,
+        "musique-009": 0.0,
+        "musique-010": 0.0,
+        "musique-011": 0.0,
+        "musique-012": 0.0,
+        "musique-013": 0.0,
+        "musique-014": 0.0,
+        "musique-015": 0.0,
+        "musique-026": 0.0,
+        "musique-027": 0.0,
+        "musique-028": 0.0,
+        "musique-029": 0.0
+      }
+    },
+    "all_supports": {
+      "estimate": 0.0,
+      "interval": [
+        0.0,
+        0.0
+      ],
+      "independent_corpora": 16,
+      "source_counts": {
+        "musique": 16
+      },
+      "source_weights": "equal",
+      "resamples": 20000,
+      "alpha": 0.05,
+      "seed": 20261110,
+      "means": {
+        "FLAT_RECORDS": 0.9947916666666666,
+        "GRAPH_PPR": 0.9947916666666666
+      },
+      "positive_corpora": 0,
+      "tied_corpora": 16,
+      "corpus_deltas": {
+        "musique-000": 0.0,
+        "musique-001": 0.0,
+        "musique-002": 0.0,
+        "musique-003": 0.0,
+        "musique-007": 0.0,
+        "musique-009": 0.0,
+        "musique-010": 0.0,
+        "musique-011": 0.0,
+        "musique-012": 0.0,
+        "musique-013": 0.0,
+        "musique-014": 0.0,
+        "musique-015": 0.0,
+        "musique-026": 0.0,
+        "musique-027": 0.0,
+        "musique-028": 0.0,
+        "musique-029": 0.0
+      }
+    }
+  },
+  "summary": [
+    {
+      "family": "musique",
+      "arm": "FLAT_RECORDS",
+      "seed": 20261110,
+      "corpora": 16,
+      "questions": 192,
+      "quality": 0.3266907820462966,
+      "invalid": 0,
+      "truncated": 0,
+      "mean_generation_seconds": 2.6546314812480887
+    },
+    {
+      "family": "musique",
+      "arm": "GRAPH_PPR",
+      "seed": 20261110,
+      "corpora": 16,
+      "questions": 192,
+      "quality": 0.33265162239382473,
+      "invalid": 0,
+      "truncated": 0,
+      "mean_generation_seconds": 1.984735179166364
+    }
+  ],
+  "sha256": {
+    "queue": "d7fc8af985ed784430b30f54688a14af1018259865e7955feba9c29f35f086da",
+    "contexts_manifest": "ffe1c85889c57a1b124c63b5973132591cd6aadc0591c99fff8ca88b3682bc36",
+    "inputs": "352a9989d1fdc21b8c2214c1010e2f6161e8a68abce27a639b3fa37b5591c40b",
+    "protocol": "6c1e2d83a7e4cbfb317d24eabfe502a50ecc42b2092ee2703040e4fec65e8376",
+    "calls": "cb2568fee31bdd2af4ec1fdc9c5db65292eaa53c5a23059035f33c0b3a727579"
+  }
+}

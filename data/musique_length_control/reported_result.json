@@ -1,0 +1,113 @@
+{
+  "scope": "post-main follow-up on the same MuSiQue cohort; no independent confirmation",
+  "model": {
+    "digest": "7bb3f324cafc5ba3a2e2ed4f8b45bd2eda4c5c7b15494fcfd0100ecfaf41a3d7",
+    "name": "qwen2.5:14b-instruct-q5_K_M"
+  },
+  "questions": 192,
+  "corpora": 16,
+  "responses": 384,
+  "terminal_statuses": {
+    "complete": 384
+  },
+  "equal_context_pairs": 192,
+  "equal_full_prompt_pairs": 192,
+  "lengths": {
+    "evidence": {
+      "mean": 3361.3489583333335,
+      "minimum": 2331,
+      "maximum": 4000
+    },
+    "shared_source": {
+      "mean": 2687.1666666666665,
+      "minimum": 2126,
+      "maximum": 3000
+    },
+    "graph": {
+      "mean": 674.1770833333334,
+      "minimum": 45,
+      "maximum": 1000
+    },
+    "graph_rows": {
+      "mean": 16.625,
+      "minimum": 1,
+      "maximum": 27
+    },
+    "prompt": {
+      "mean": 3438.4947916666665,
+      "minimum": 2407,
+      "maximum": 4073
+    }
+  },
+  "summary": [
+    {
+      "family": "musique",
+      "arm": "GRAPH_MATCHED",
+      "seed": 20261110,
+      "corpora": 16,
+      "questions": 192,
+      "quality": 0.4741950757575757,
+      "invalid": 0,
+      "truncated": 0,
+      "mean_generation_seconds": 1.173853394271191
+    },
+    {
+      "family": "musique",
+      "arm": "TEXT_MATCHED",
+      "seed": 20261110,
+      "corpora": 16,
+      "questions": 192,
+      "quality": 0.3917721532853112,
+      "invalid": 0,
+      "truncated": 0,
+      "mean_generation_seconds": 1.1173792572911527
+    }
+  ],
+  "source_support_coverage": {
+    "TEXT_MATCHED": 0.9926215277777778,
+    "GRAPH_MATCHED": 0.9852430555555556
+  },
+  "contrast": {
+    "estimate": 0.08242292247226457,
+    "interval": [
+      0.04969070426101676,
+      0.11849188297995854
+    ],
+    "independent_corpora": 16,
+    "source_counts": {
+      "musique": 16
+    },
+    "source_weights": "equal",
+    "resamples": 20000,
+    "alpha": 0.05,
+    "seed": 20261110,
+    "practical_margin": 0.02,
+    "conclusion": "practically_better",
+    "positive_corpora": 15,
+    "equal_corpora": 0,
+    "corpus_deltas": {
+      "musique-000": 0.08333333333333337,
+      "musique-001": 0.04365079365079372,
+      "musique-002": 0.08333333333333337,
+      "musique-003": 0.041666666666666685,
+      "musique-007": 0.0385586635586635,
+      "musique-009": 0.024999999999999967,
+      "musique-010": 0.061111111111111116,
+      "musique-011": 0.09920634920634913,
+      "musique-012": 0.10119047619047622,
+      "musique-013": 0.25,
+      "musique-014": 0.13792815371762746,
+      "musique-015": 0.033333333333333326,
+      "musique-026": 0.027777777777777735,
+      "musique-027": 0.18181818181818182,
+      "musique-028": 0.15833333333333335,
+      "musique-029": -0.0474747474747475
+    }
+  },
+  "sha256": {
+    "protocol": "5cff829535bff637f8977c4a728aea461406c6710e391b00297b50274537a282",
+    "queue": "6c4411a9b9571b6a1db601d8821ddee4091495db9ce4f46bebb054d7906974e1",
+    "contexts": "cf3cae6e8796e9cae3fabd8113029059e28aed0fc65473484e52f54e37970bff",
+    "calls": "df0798ed426cc2d583f6a2ad29f92e6523c61163ae38a7ad50b56a512a0df713"
+  }
+}

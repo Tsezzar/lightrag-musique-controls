@@ -1,0 +1,20 @@
+{
+  "quality_aggregation": "equal_source_mean_of_corpus_mean_of_question_quality",
+  "cuad": {
+    "primary": "questionwise_fixed_point_multi_span_f1",
+    "matching": "official_jaccard_ge_0.5_with_Parties_substring_exception",
+    "no_answer_and_empty_span_list": 1,
+    "invalid_or_incomplete_response_quality": 0,
+    "secondary": ["micro_span_precision", "micro_span_recall", "micro_span_f1", "invalid_rate", "exact_span_set_match"],
+    "not_reported": "ranked_AUPR_without_valid_ranked_confidences",
+    "source": "https://github.com/The-Atticus-Project/cuad/blob/67faa0e6023b04fcaae6cc09497ab00e5d63a2a2/evaluate.py"
+  },
+  "musique": {
+    "primary": "official_answer_token_f1_max_over_aliases",
+    "secondary": ["official_answer_exact_match", "invalid_rate"],
+    "source": "https://github.com/StonyBrookNLP/musique/blob/main/metrics/answer.py"
+  },
+  "pubmedqa": {"primary": "strict_structured_class_accuracy", "allowed_labels": ["yes", "no", "maybe"]},
+  "invalid_or_incomplete_response_quality": 0,
+  "llm_judge_role": "secondary_sensitivity_and_diagnostics_no_new_human_validation"
+}

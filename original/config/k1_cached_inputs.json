@@ -1,0 +1,12 @@
+{
+  "inputs": [
+    {
+      "family": "musique",
+      "format": "hf_arrow_stream",
+      "relative_path": "bdsaglam___musique/answerable/0.0.0/22873a405dd809893b22ada0b499299fb612d2df/musique-train.arrow",
+      "upstream_url": "https://huggingface.co/datasets/bdsaglam/musique/resolve/22873a405dd809893b22ada0b499299fb612d2df/musique_ans_v1.0_train.jsonl",
+      "revision": "22873a405dd809893b22ada0b499299fb612d2df",
+      "expected_bytes": 212851104
+    }
+  ]
+}

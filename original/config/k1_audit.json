@@ -1,0 +1,16 @@
+{
+  "ner_source_config": "config/k1_ner_source.json",
+  "ner_model_name": "en_core_web_sm",
+  "ner_model_version": "3.8.0",
+  "maximum_unpacked_bytes": 50000000,
+  "ner_batch_size": 64,
+  "ner_excluded_components": ["tok2vec", "tagger", "parser", "attribute_ruler", "lemmatizer", "senter"],
+  "features": ["lcc", "density", "clustering", "twonn", "hubness", "centroid_distance"],
+  "knn_k": 10,
+  "twonn_distance": "euclidean_on_unit_embeddings",
+  "undefined_value": null,
+  "missingness_fit": "train_only",
+  "entity_types": "all_ner_labels_no_global_frequency_filter",
+  "embedding": "same_BGE_M3_model_selected_blocks_only",
+  "note": "Cheap cooccurrence graph surrogates, not features of the full semantic LightRAG graph."
+}

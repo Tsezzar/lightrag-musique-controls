@@ -1,0 +1,10 @@
+{
+  "runtime": "ollama",
+  "version": "0.32.14",
+  "forced_bos_pre": ["lfm2", "gemma4"],
+  "forced_bos_model": ["gemma4"],
+  "fallback": "tokenizer.ggml.add_bos_token",
+  "source": "https://github.com/ollama/ollama/blob/v0.32.14/llm/llama_server.go#L241-L259",
+  "source_test": "https://github.com/ollama/ollama/blob/v0.32.14/llm/llama_server_test.go#L1358-L1383",
+  "note": "Runtime compatibility rule, not a one-token tolerance. Unknown versions require re-verification."
+}

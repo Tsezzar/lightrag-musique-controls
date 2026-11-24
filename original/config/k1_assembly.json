@@ -1,0 +1,9 @@
+{
+  "input_inventory": "results/k1_inputs/raw_inventory_v5.json",
+  "tokenizer_config": "config/k1_tokenizer_sources.json",
+  "primary_tokenizer": "qwen_tokenizer.json",
+  "cuad_answerable_questions": 6,
+  "ablation_corpora_per_source": 4,
+  "public_directory": "data/k1_study",
+  "manifest_directory": "results/k1_inputs"
+}
