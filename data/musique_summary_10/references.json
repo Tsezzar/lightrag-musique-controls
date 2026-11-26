@@ -1,0 +1,1339 @@
+{
+  "musique-fresh-000": {
+    "2hop__14095_15463": {
+      "answers": [
+        "Hewlett Packard",
+        "Hewlett-Packard"
+      ],
+      "spans": [],
+      "support_ids": [
+        "musique:003418b9245cb3267adfb2a8639cf405aef8e7d35087e95140265e965a7aced9",
+        "musique:ee0602a2c09bddac7bb82713e917062ff93153f6421dc6b3d51f537534ecc63d"
+      ]
+    },
+    "2hop__249867_557232": {
+      "answers": [
+        "Maricopa County",
+        "Maricopa County, Arizona"
+      ],
+      "spans": [],
+      "support_ids": [
+        "musique:83bf9ccc03ed73d7f385d47b7055b727ce2ec82186071b991d322e4d9f747a3f",
+        "musique:0d93abdece254a1f087f6d2fc0de5f0862b3746a64b92cfd500962ee91a23312"
+      ]
+    },
+    "2hop__335418_279684": {
+      "answers": [
+        "Pittsburgh Pirates",
+        "Orioles",
+        "Pirates",
+        "Baltimore Orioles",
+        "New York Mets",
+        "Mets"
+      ],
+      "spans": [],
+      "support_ids": [
+        "musique:75bc36e3e40564114301b189a8601201f691170dd35bd07e3e5a907f20ec71aa",
+        "musique:26c109a47a4bd406fa49d3b1e9ae22e8e50d3d2b6d9904c10ae80862d7d850d3"
+      ]
+    },
+    "2hop__35137_22896": {
+      "answers": [
+        "Hamadan"
+      ],
+      "spans": [],
+      "support_ids": [
+        "musique:f40fc8b494ffc9c40a2598e71819d576e85fdc2673c8332757b06d747b7da901",
+        "musique:3af8af4b92283a9a0fc342588c1974c34912260789c5fba3f2ce37670a65c2d5"
+      ]
+    },
+    "3hop1__142044_538202_84283": {
+      "answers": [
+        "Warner Music Group",
+        "Warner Music"
+      ],
+      "spans": [],
+      "support_ids": [
+        "musique:64c774ddb2e901192f79cc0fe71684cc926e491476b1c45534a7027e61f619bb",
+        "musique:55a186a0539971deab55a798479a027689a98e852ec489e9929414ea8293489c",
+        "musique:9f4ceffaf772fbe3615e8a861927d7d1ac6f6ac8cfb251f8d37504ba9dd7bd07"
+      ]
+    },
+    "3hop1__313670_42197_18397": {
+      "answers": [
+        "the Politburo",
+        "Politburo"
+      ],
+      "spans": [],
+      "support_ids": [
+        "musique:5aa33afc96cf520c36457ac6768eb8408cf98b0ccf1a5856ba2cada4080097f7",
+        "musique:26d87bf672f372636adeba9ae0295908e48e5c32d12ad4b7d004382dfd1a2e54",
+        "musique:989113706c48d5ee26a26b8b77f88eb310f8eb3af2e77622d1cfc40ad627127d"
+      ]
+    },
+    "3hop1__438364_443779_52195": {
+      "answers": [
+        "Francisco Guterres"
+      ],
+      "spans": [],
+      "support_ids": [
+        "musique:55598a1c5635e0c557cfe605bc477fad895f77db9d63c29380cbff412cf9b18e",
+        "musique:b250db232ec6804226afebcc9c23fbfd68aff2957fa4f4c76b22def86404a56b",
+        "musique:fe06aa54ef8f1315a1d075b38555823d51ba0f23daa20f3c34d6c7ec6f292f62"
+      ]
+    },
+    "3hop1__497845_629431_64412": {
+      "answers": [
+        "11 February 1929"
+      ],
+      "spans": [],
+      "support_ids": [
+        "musique:7088c4c497d266184e6055c08cbe886111980995d550823a211cb46538d2bbe2",
+        "musique:7b8a860218be50e186f0d5e2aff9e13cb52c22ddac76dbe522a3a8c0b9ec103f",
+        "musique:dbe3a9f7245186633613d25a4bd04a683e25b3884e144552910d8c0bbf8e8dd6"
+      ]
+    },
+    "3hop2__127483_79978_10557": {
+      "answers": [
+        "Medieval Latin"
+      ],
+      "spans": [],
+      "support_ids": [
+        "musique:9547c5f0d7ed018b5838fae44c5a3534743a7b9cb96755c34b342d0c5daf1eea",
+        "musique:bbcb33429ff6b6903a724d44a7efdecc3e7ba373155e8608de1156ca855bb49c",
+        "musique:8110a5d522958d53be1bf8e97d95e005e715b2657263bc464b2a831da78cd783"
+      ]
+    },
+    "3hop2__30956_65244_84681": {
+      "answers": [
+        "13 December 1642"
+      ],
+      "spans": [],
+      "support_ids": [
+        "musique:72b385e682de3faf32ae286502fc2abd1e277ebecbd160f487219998a5758478",
+        "musique:1b51d951df4d1aee6a62b544a0347f0e21cd138733b096687456c6e601d757d6",
+        "musique:dec72b2fbc5ef531cc21b56bdddd46d159c55b1d824503607667f3b8899b26ff"
+      ]
+    },
+    "4hop1__88342_75218_128008_80487": {
+      "answers": [
+        "July 11, 2017"
+      ],
+      "spans": [],
+      "support_ids": [
+        "musique:a7675dc05de1ad7b3c40d5e6c4d3c8fc31fe9bf9d2a6c9293b46ca59449787b1",
+        "musique:c33f033c8111dd83ffa33313010b32f3cfdbdf3d118583ca4eeb52bc436914db",
+        "musique:9fef3012618400424e319ff1cb72ce9fa40f0f96489b5a2be1371203d1a1c633",
+        "musique:0e63176383629fa0f413ed0d50dc3ea643b4f3fb5ad7428de0037cc4166c969d"
+      ]
+    },
+    "4hop3__129754_29339_508306_70744": {
+      "answers": [
+        "University of South Carolina",
+        "USC",
+        "SC"
+      ],
+      "spans": [],
+      "support_ids": [
+        "musique:4c9eb7e95dac627cab98193334287c6f57b7ad582f0695151779325de31123dc",
+        "musique:c83b6ce44f5270b263c240be663c238810cf7dd0a7efdfa7fc0096e263736945",
+        "musique:f465ead493a3f38cdb3678c26c6b8b1cdef179b7c3af42ba0504116f9b8d41c8",
+        "musique:ab33180bdcdf138c5ecb4692445db0834e5eebb7b17bc733ea3831a0de8c2230"
+      ]
+    }
+  },
+  "musique-fresh-001": {
+    "2hop__122651_141338": {
+      "answers": [
+        "City University of New York",
+        "The City University of New York"
+      ],
+      "spans": [],
+      "support_ids": [
+        "musique:0f9d505631ec6207771c8760415193338ffb50ac588e3baeacb96552055740ad",
+        "musique:55d3c410e9852c37edb2b798ca3f5c36b4c13eea8acf77c23d274c8c7d47d8e0"
+      ]
+    },
+    "2hop__160292_23241": {
+      "answers": [
+        "48.8 percent"
+      ],
+      "spans": [],
+      "support_ids": [
+        "musique:2c9cacf6b393155e4d25ff7792bfcce1df7b32bb4506abddfa62fe00b99d772c",
+        "musique:3997c8170ba123506cbfbdd5c4ecc825f56183a8c7c87984e1c4051fd5231a6e"
+      ]
+    },
+    "2hop__576118_25719": {
+      "answers": [
+        "406"
+      ],
+      "spans": [],
+      "support_ids": [
+        "musique:466f93811559ff5e2923aa2696b3b8f653aeb8bffed5ccc22a2e0d3c4c5088bf",
+        "musique:e57d82560217d3a931be32f6e948a2987088fb621afbf11f996cece21b968135"
+      ]
+    },
+    "2hop__61714_64633": {
+      "answers": [
+        "``The Negotiation ''",
+        "Negotiation",
+        "negotiation"
+      ],
+      "spans": [],
+      "support_ids": [
+        "musique:3357ae7d6ed6a992cd45295cbd5bce169646cf4836a4d47d62ab1766ac251554",
+        "musique:fa1165d784f101acac861e48ff0030b04147be4d6a24b96292b0c8bb5a80f8cb"
+      ]
+    },
+    "2hop__700093_455653": {
+      "answers": [
+        "Rohana Wijeweera"
+      ],
+      "spans": [],
+      "support_ids": [
+        "musique:a66440ca43d3b180403126c75b5417f26fc4cb99e7200b912caa78d9f41d22dd",
+        "musique:5a22be8e9201442435a939a002d3990a2b9f218b06abcdcb335c14b2a403ac0a"
+      ]
+    },
+    "2hop__771727_93362": {
+      "answers": [
+        "Yeh Raaste Hain Pyaar Ke"
+      ],
+      "spans": [],
+      "support_ids": [
+        "musique:55332f06e0c73900371847bdbf72af9c4bf94efd535965d368acce3fa942b82c",
+        "musique:2ff6de6b33c8fb9f587098d7ed977861c57466b8de01376b5d84264a92a265b4"
+      ]
+    },
+    "2hop__82051_7298": {
+      "answers": [
+        "Michael Bublé"
+      ],
+      "spans": [],
+      "support_ids": [
+        "musique:fc7175a0d8b0e86a6075368ee248d130b98de8fa3e09779daf15accf4e196863",
+        "musique:cafcca1de606a152b8b0fd51931d5f7501de994fee78d299d2c45af86f88b067"
+      ]
+    },
+    "3hop1__129675_39743_24526": {
+      "answers": [
+        "upper 40s–lower 50s °F"
+      ],
+      "spans": [],
+      "support_ids": [
+        "musique:04bdb60b345ced3c3d1eeb34e7437ab393e392c970379e662f94f9e1849d67ae",
+        "musique:f0eae666f306c2c8d0ec3793f36e5b2d5dfdfbc8fca2455b815f133427402211",
+        "musique:27d6fe684bfff7129c45e4ecf224c77b0e08da96907128fa817b5b201fea3036"
+      ]
+    },
+    "3hop1__765565_326948_78782": {
+      "answers": [
+        "General Edward Pakenham",
+        "Edward Pakenham"
+      ],
+      "spans": [],
+      "support_ids": [
+        "musique:bc9418714c0f6c3cb582e4e6c0b1c25f41781ba6418c3099d6a05f987076a909",
+        "musique:5e46cc5dc665ccf6999ce48ad9ed29fdf2941ff3dca107cb5c4634c8c9297b6d",
+        "musique:d608363dff3811160f014c0019799573b6951e01cc6acaf774af08b996740d37"
+      ]
+    },
+    "4hop1__342858_131850_33952_34088": {
+      "answers": [
+        "Tucson Raceway Park",
+        "Tucson, Arizona",
+        "Tucson"
+      ],
+      "spans": [],
+      "support_ids": [
+        "musique:e7b5959165227feafa165861176492573b37822db44eacf33f6a08a45eeee37e",
+        "musique:4844c2b7d8ebbddb90ebc743af57e366118913ea0c09d1df28d2cbd284d0a7fd",
+        "musique:250eb65431483ee27bad09df0834e4de10a02d24fdb51b1338f7d01bc4640c6d",
+        "musique:33cef3ec3ad5002ef658503cdaa60b2c256b32576756f7d40b796cc73d5bd494"
+      ]
+    },
+    "4hop1__47210_53706_795904_580996": {
+      "answers": [
+        "Rio Linda"
+      ],
+      "spans": [],
+      "support_ids": [
+        "musique:6b0dad52bed14883a32ddad777dae7cf2161a7c67aa99cb4a952972c94d5c4d2",
+        "musique:97c89ac2c377d99cb12a065d81370a426d6a59b03f11c4ff092abb0b75f54667",
+        "musique:51ac34e71c2774c9c5c3cb927de80b46f94513342f99ea0d912cb7ad33aa252d",
+        "musique:119c827547cfafad1a39fb393c5d24088e6707c61ffe8e63255b8805ee68ec5f"
+      ]
+    },
+    "4hop1__567737_141375_458768_33633": {
+      "answers": [
+        "August 3, 1769"
+      ],
+      "spans": [],
+      "support_ids": [
+        "musique:b67020602ec0faa5fbb0cd4ecf4886dbe1afe710093860df4ad7c6e274397a5c",
+        "musique:eb67836cab2d7c09599a446eda33f7533211899dd4e5cca875062e7bf0911af0",
+        "musique:34d00201f433edde468d778cb31d36e0bc752185303e5ae53ecf41a71a7ec610",
+        "musique:1bc3ac4abd5b1a03979c8cb24564f0666b9de107fe36149cfeeeebdd1615dc19"
+      ]
+    }
+  },
+  "musique-fresh-002": {
+    "2hop__374767_152023": {
+      "answers": [
+        "Kicking Mule Records"
+      ],
+      "spans": [],
+      "support_ids": [
+        "musique:ba9b83731d044a90cd80658646f6b4e030e7fe4797d6e9504b579cfa1f39948a",
+        "musique:6c8f9a9c3a07e7ed36dc6351ce5304be67e835fd129d065d104e7743a7c1efc7"
+      ]
+    },
+    "2hop__525242_52835": {
+      "answers": [
+        "John D. Loudermilk"
+      ],
+      "spans": [],
+      "support_ids": [
+        "musique:10885b88aa60f31b15298dc51392d0e61b9a3187ca4e7df199bf1ae98040cc75",
+        "musique:3285560d0d9f73c9a866727dd078eeb5e44a0abc92119f985eeb0eabae2168d0"
+      ]
+    },
+    "2hop__60336_169233": {
+      "answers": [
+        "Academy Award for Best Supporting Actor"
+      ],
+      "spans": [],
+      "support_ids": [
+        "musique:a9f07c9b0514b65fa496dd0d9b00548e829a6d17ecf182cfb7aaa59320effae2",
+        "musique:274311d494bc4da7ba0bd83e4c000a99767c14c54bf799e3aaa2c43d90dd74fa"
+      ]
+    },
+    "2hop__668407_683671": {
+      "answers": [
+        "Yang Xingmi"
+      ],
+      "spans": [],
+      "support_ids": [
+        "musique:79982dbdaa8914c9c3ba780f4bc01d43af59a565d8448d2210d0c52dff45bab8",
+        "musique:fc1023ba60a77d47dc6d50099f1da0aea5d07ec9ef44431d777971d790e498ba"
+      ]
+    },
+    "2hop__709357_136043": {
+      "answers": [
+        "Natalie Albino",
+        "Nina Sky"
+      ],
+      "spans": [],
+      "support_ids": [
+        "musique:7e39c3799b98d6e68b8b93fd93b7c31c5401d06566251a479af7ac81a51af352",
+        "musique:00cf3ef87e505cb0ac8f014598c2f529eff6a7457f608233f13dfffe384735c4"
+      ]
+    },
+    "2hop__95172_152907": {
+      "answers": [
+        "La Goulette",
+        "Tunis",
+        "Rome"
+      ],
+      "spans": [],
+      "support_ids": [
+        "musique:5c3b443001bf4b1c99307d49b5a4b4f87a8572f26f542a1b719e3f8ff2b62fa1",
+        "musique:0485ca9e8b248b2e668a3ece8cc3d714dc1a1304f6693a2bad0d89ddade33faf"
+      ]
+    },
+    "3hop1__127716_157828_239539": {
+      "answers": [
+        "Pristina"
+      ],
+      "spans": [],
+      "support_ids": [
+        "musique:2b259adf98a46842efd72c63d0f17eb2d83b5171ae173ec6fa5c12b5c4928d51",
+        "musique:074bc05c49cbca6d28b0624d4e23b66f7fb1a1c4292319011f8f7f4a4bc36fa4",
+        "musique:2acf3455471358953712de59cbe2bb5f7a43095b970c91e8a710a28aea7e7b13"
+      ]
+    },
+    "3hop1__131820_59747_48534": {
+      "answers": [
+        "Lemuel P. Grant, a successful engineer and businessman"
+      ],
+      "spans": [],
+      "support_ids": [
+        "musique:238d970774164571133f3bf63afb089b09c2e8980a17653f689d523a1c2a36f1",
+        "musique:a3305d25cd180f882ee167cca0528214980faf3264d4805c8a1fb2fdcf8deb5b",
+        "musique:68550d6527a2f26d4bfd1b38f7eae3504332da952df218665e4a6318f21e6add"
+      ]
+    },
+    "3hop1__836699_15840_36002": {
+      "answers": [
+        "built on 16-bit architectures and offered improved graphics and sound",
+        "16-bit",
+        "16-bit architecture"
+      ],
+      "spans": [],
+      "support_ids": [
+        "musique:33cacfb87493100931f3eb23a903cd262a160cee7d7ea03ed7d3d1e77cc4abbb",
+        "musique:eb7f1499d9c04ae61551eb601f4a261f6e7d50dfb321242e198970736118934a",
+        "musique:0956e8495348d7fb7d4977c93d07f096e78477ee7b86317d4226d9fe0bfb3908"
+      ]
+    },
+    "3hop2__57186_89048_66294": {
+      "answers": [
+        "Lawrence Hilton - Jacobs"
+      ],
+      "spans": [],
+      "support_ids": [
+        "musique:c601828c47d14864e1ad4bc817de580766994a8698ee4eca1cc32fadd23a0e3e",
+        "musique:ff147da534690d1505c2e03e8b518b3f290634d974e877a8a5e70691b9e5362f",
+        "musique:e34158db0b6628eddb981c5e4f5c7c822a7d5b7c0f6e6328d50e18f838730314"
+      ]
+    },
+    "4hop1__105002_17130_70784_61381": {
+      "answers": [
+        "1932"
+      ],
+      "spans": [],
+      "support_ids": [
+        "musique:71373f77e54e9c12784168397a8310039594cfb11f338343653e5f2206ab19cb",
+        "musique:627b47f101049b88536419aa29d2589c8baded7c29d96154feb4b41ee5566757",
+        "musique:94d1fdb9a10f0faf002d9d159d816ceee678432c6789d78d40fe933b946bde33",
+        "musique:57abf3227f658cb9f560252458c6343c224bbd8fbf100be81e167082a5902417"
+      ]
+    },
+    "4hop1__636860_49925_13759_736921": {
+      "answers": [
+        "Saxony-Anhalt"
+      ],
+      "spans": [],
+      "support_ids": [
+        "musique:5650ac6ee9ad301070b880a98c4aa74b6c26b671cd2133cfcea6a37aaed0cd8f",
+        "musique:fd6e05e10fedf5d86a1d51093b7262144ed9bcf93479b3a7a6c279a698a40e9d",
+        "musique:bf20ed8a341f2de59824de7182b6da4f9fd18150b0351373170e1d00e432f28d",
+        "musique:73bb2160e081eaacd7e501028ce21283c06f04a63514060c9d33af68da7ab316"
+      ]
+    }
+  },
+  "musique-fresh-003": {
+    "2hop__267938_92763": {
+      "answers": [
+        "16,801"
+      ],
+      "spans": [],
+      "support_ids": [
+        "musique:fd918fa6eaec5f56f2675b631be7681c12f624e0b7ea4841160520559bacc9ce",
+        "musique:ae2b561c017dfed72519a6d7557b60bea9f4df7fd5ad3570a72d241fd54ddf8e"
+      ]
+    },
+    "2hop__29893_29905": {
+      "answers": [
+        "only about half"
+      ],
+      "spans": [],
+      "support_ids": [
+        "musique:9e8aaa15c883167814dd5bcd3d1b2cc93eab6df8f215560a410275cfd12625cb",
+        "musique:8ea03da636d48218032c6c3bfa89e9433e3e377a45e6b78b2358c2b6786265ba"
+      ]
+    },
+    "2hop__362912_97805": {
+      "answers": [
+        "Winter War"
+      ],
+      "spans": [],
+      "support_ids": [
+        "musique:1f5ed1e52307758a30e3c320f1f993e5344e778b6ddc9c70006c214c7bbf51f6",
+        "musique:398741781904b285d572fea8a0127bbd86f08052b47b94db2a7da8bed80e6465"
+      ]
+    },
+    "2hop__37656_36240": {
+      "answers": [
+        "Genesis 3:15"
+      ],
+      "spans": [],
+      "support_ids": [
+        "musique:009ecf2bc587190b283509523578f65727d44e65bfae2ab7fe360f5dbdbba997",
+        "musique:bff67518b6992ca67842563f5dfd423306bc642055c4db4385982648a141e994"
+      ]
+    },
+    "2hop__468778_88165": {
+      "answers": [
+        "Keturah"
+      ],
+      "spans": [],
+      "support_ids": [
+        "musique:7d7722c70177b5029457fb9b391835a34561c6a4c01c46a32114feef14683884",
+        "musique:6d72a3fe302ba6f32f9f634c8ee6e12a1bf83a8cf3c6c3e48d8c707dafb6f0b7"
+      ]
+    },
+    "2hop__57209_67668": {
+      "answers": [
+        "Nightwing / Dick Grayson",
+        "Nightwing",
+        "Dick Grayson",
+        "Batman",
+        "Robin"
+      ],
+      "spans": [],
+      "support_ids": [
+        "musique:a69ed553479fbe88b00069e83f5ec1ddf2e37a23f096073f0ea87cb2d323d79a",
+        "musique:7dde8a4e7770aadb06c52db70e744fcd8c1488529d0b6881bd84026306c3240b"
+      ]
+    },
+    "2hop__619265_72380": {
+      "answers": [
+        "June 20, 2016"
+      ],
+      "spans": [],
+      "support_ids": [
+        "musique:6da588661cc1945dc88762139d6811c97b8749ec22f761ea9a66549367058ed9",
+        "musique:b24ce191822fbc64b6971e849fe8d503b881fcde2cea1a0b24d880f2194fb984"
+      ]
+    },
+    "3hop1__108833_720914_41132": {
+      "answers": [
+        "22"
+      ],
+      "spans": [],
+      "support_ids": [
+        "musique:d61639c721f95f627e80af88d850460675dabeabed528182e60285135649869c",
+        "musique:351894bdd40059594c10af155b4e72eb36dda3ac8a450159f71ec5a9d58bbd60",
+        "musique:cda796e8579a1506998ee3077b815ceb0dd9c29392ba5a8c6aadb5edd60639bd"
+      ]
+    },
+    "3hop1__584774_131926_87157": {
+      "answers": [
+        "rises in northern Minnesota and meanders slowly southwards",
+        "Minnesota"
+      ],
+      "spans": [],
+      "support_ids": [
+        "musique:99e6a3afe18fe614a2b0e71fe185332044eeade657b0654715fefb14896f285a",
+        "musique:f5df252092dc1b0b7a445520bf4e3bb9e32fce55d1411540e806dc1c1776d233",
+        "musique:1c208f1e2e6b933cf9d635f8913cb53c1117a61918560180c5b8afe9cb2e4a34"
+      ]
+    },
+    "3hop2__132957_132968_40768": {
+      "answers": [
+        "1981"
+      ],
+      "spans": [],
+      "support_ids": [
+        "musique:896c3824917762842659f16d9de2db10dcd571e1893d6a56ba5267d649424137",
+        "musique:f7aaa341cf743bf950660badcf87925e68066acdccf71334cd19e335f3d33ceb",
+        "musique:2b1df5663580ca73769e0aa112de9b13c4bb5f38c2d14798f8deab5365a900a5"
+      ]
+    },
+    "3hop2__140194_16797_51068": {
+      "answers": [
+        "Jenna - Louise Coleman",
+        "Jenna Coleman"
+      ],
+      "spans": [],
+      "support_ids": [
+        "musique:bbeb928b3c655a2ce5f0578fdfcddb74af642fc0db72afbf29581eaccb36397b",
+        "musique:c31eb4c73b516cccfcb36bcdcc4358a7a7104ea902e23d73383d7f4723b59aa7",
+        "musique:974d7d828d1660aae2d88822902f0d2d65d710a1459d315f37c111f67fcb3656"
+      ]
+    },
+    "3hop2__304722_667199_63959": {
+      "answers": [
+        "1 December 2010"
+      ],
+      "spans": [],
+      "support_ids": [
+        "musique:db949e6e2517e397ff54be30ddfde67152212da1945d190686306521cf10449e",
+        "musique:e6bc34d70a1d191f4839e37e4221eaf2abe63b3cb57228d806df45333682135c",
+        "musique:baf541894c12920ce9fa9f2d2b4eb4237c9a2843e6cfc35bd31c2ebbf08c1fe9"
+      ]
+    }
+  },
+  "musique-fresh-004": {
+    "2hop__156700_73244": {
+      "answers": [
+        "Thaba Putsoa"
+      ],
+      "spans": [],
+      "support_ids": [
+        "musique:68aed27ac8377fadbf53da1fa81fe2ffba40c05c7e2bf51370b8cb89e38039de",
+        "musique:c839f8f553121c97907743a07e1976be315d42e85783c4558e9dd1e416f5f493"
+      ]
+    },
+    "2hop__161151_50883": {
+      "answers": [
+        "The fourth section, with orange page borders",
+        "Fourth"
+      ],
+      "spans": [],
+      "support_ids": [
+        "musique:5b735af44606c4062314eb1cf439f7e19f68a9077a25187d831871a151ba2e1c",
+        "musique:636fd75a4720c9b99049762f7acb0987c53b862cc24216aa5c3b848d27d41c3b"
+      ]
+    },
+    "2hop__460091_405771": {
+      "answers": [
+        "Coleoptera",
+        "beetles",
+        "beetle",
+        "Beetle"
+      ],
+      "spans": [],
+      "support_ids": [
+        "musique:78d5f988cebdcd3d408b75d59c4e167a2221055975a293b591c97950b8d7619a",
+        "musique:37703f3cae009a0b39a369d5144e19871e6d3abb8f89be1f0273397eef0c1f7e"
+      ]
+    },
+    "2hop__51760_602275": {
+      "answers": [
+        "Hans Albert Einstein"
+      ],
+      "spans": [],
+      "support_ids": [
+        "musique:d2b6264e5acf395eb52960e711be56fec9a482b0748d18de41596ec46e8670b6",
+        "musique:e40871714a2f8f190cad04700c1e1138d3d8a260d7b088a68b087560a091abea"
+      ]
+    },
+    "2hop__544760_35739": {
+      "answers": [
+        "September 2013"
+      ],
+      "spans": [],
+      "support_ids": [
+        "musique:d70f29a42c1b6638b9767b60a0a86466274ec062cd258000165f497d3ac984e9",
+        "musique:df21e9674f87efb6b03a53fc18d40793caf0d45d490ce2c43115098e8528e100"
+      ]
+    },
+    "2hop__59133_512508": {
+      "answers": [
+        "Manhattan Project"
+      ],
+      "spans": [],
+      "support_ids": [
+        "musique:ddc711a80b1812387a38bff33cdf52207aa37caf49b9771bba716852e8f48f36",
+        "musique:194d250757b0664b46af0777cb8cb0495a230c320b54141eb5f11c5fc5c3254f"
+      ]
+    },
+    "2hop__691639_154896": {
+      "answers": [
+        "27 April 2009"
+      ],
+      "spans": [],
+      "support_ids": [
+        "musique:40c048511865e9bec8cd650732c889cf1c51724dda80ea01cda19e3100d268fa",
+        "musique:cafd6b1dc9d7c76d621c27882525152b79e909d9395740180528e09672a39db1"
+      ]
+    },
+    "2hop__79875_84469": {
+      "answers": [
+        "Bill Pullman"
+      ],
+      "spans": [],
+      "support_ids": [
+        "musique:ef88713a8355cad7d0b6e78d4f94773a71da43ba23e8422e5e784e6c55339614",
+        "musique:9221cf9d7b2e9b8e27c2ecfe4920712884b36470a25c7126dfb11ed4a6bd6697"
+      ]
+    },
+    "3hop1__102461_24918_24991": {
+      "answers": [
+        "Soviet flag",
+        "USSR",
+        "Soviet Union",
+        "SU",
+        "the Soviet Union"
+      ],
+      "spans": [],
+      "support_ids": [
+        "musique:38d070744c6b15e1c0580a0d534b3ef5f0ff59aa8f2f0880dd8395182f2ea1ac",
+        "musique:5bab762a5ef325c72ea2c7eb4071fdc8769722aea686f7b9d60b6aa78cbbfbf7",
+        "musique:f207b8cab60f63db604b1e193a12d34a492524c4f08bf6039d9bf78205a23d30"
+      ]
+    },
+    "3hop2__92991_72083_76291": {
+      "answers": [
+        "January 2015"
+      ],
+      "spans": [],
+      "support_ids": [
+        "musique:12d7bbc73f81ecc0e9dbee3ac0220c9ac9faa3b930893d960da560c374f4b196",
+        "musique:e79b46117ac72bfdb296aaeb58fbe0e13d91c1378bebf6d481dea7d618d391e7",
+        "musique:bc0d4d472db8ad6739549ddd6910d8f98f8db7a67233495fd7d9dffb3d96d9c7"
+      ]
+    },
+    "4hop3__531933_836463_161616_77103": {
+      "answers": [
+        "1839"
+      ],
+      "spans": [],
+      "support_ids": [
+        "musique:fbb6933d59ebae016fbdd8d3120bdd5716a5ae717e86d49050d9dc4141dfcefc",
+        "musique:bbede5da02e0d74565a79a4a81be3da491af6a8e5f243c006940db197b1dcaa7",
+        "musique:43fb7ec83958887bf05372863610c64a65005b508409ea3aadd8084650b7703e",
+        "musique:3cd100418ee241f52a1f7081ee07d6a484f7b94a04dae93e5bb1382302bb1d95"
+      ]
+    },
+    "4hop3__673447_132409_223216_35031": {
+      "answers": [
+        "third-largest"
+      ],
+      "spans": [],
+      "support_ids": [
+        "musique:7bec89a271a602679c3f70bb79458f16dbd36c053ff9954887c68276902ba4a9",
+        "musique:34c4aa46ee19085df85e7b3122cdba1d01587cf575987aaf9f2730dcac0e752b",
+        "musique:846d359865d5969e63b147d241cfdbddd2e5cbf31fa8db9f2de9021d3bf54a79",
+        "musique:a6c7c5581703e38265039c66302ae9e05e3b457576c843472804f1759d937cf8"
+      ]
+    }
+  },
+  "musique-fresh-005": {
+    "2hop__242938_18803": {
+      "answers": [
+        "trying to find a potential buyer for all of its operations in Finland",
+        "FIN",
+        "fi",
+        "Finland"
+      ],
+      "spans": [],
+      "support_ids": [
+        "musique:13b4d3ca606a3d1549f5423a7e4b4b848c042b9d33cd1aa315e2037fe7133496",
+        "musique:dc402a5b6af8ae0b4e90c2cef39f0301737df8c49a4f9b81c2df19d1340715a4"
+      ]
+    },
+    "2hop__244193_461106": {
+      "answers": [
+        "Greek Revival"
+      ],
+      "spans": [],
+      "support_ids": [
+        "musique:44492fca4b8a9916cf9cc1b51c0ca4f0952d7dc06c1fa972029ac39c01927306",
+        "musique:9796a3fc21bb77f01ba337a61d7c788cc41cd786df6288c91e10927334ba0a5f"
+      ]
+    },
+    "2hop__286621_84856": {
+      "answers": [
+        "January 20, 2017"
+      ],
+      "spans": [],
+      "support_ids": [
+        "musique:8a88db87b32c1b4e09110b63c41e83d1e7985f1fd5f73b8796a9b39b58bb5eca",
+        "musique:8e838d87d3b9c2d74891934899defa4379cf39cc16f706f5285724266586842c"
+      ]
+    },
+    "2hop__42747_83837": {
+      "answers": [
+        "Karen Fairchild"
+      ],
+      "spans": [],
+      "support_ids": [
+        "musique:632b6e867be9bc23fe18a246ab189918d3117c2816092569c6edd27b075a201e",
+        "musique:b8df89932df2c3042cd731a72df858a1ee5223f496d1c807789a493bf13a5c8e"
+      ]
+    },
+    "2hop__612719_6455": {
+      "answers": [
+        "Firefox",
+        "Firefox web browser",
+        "Mozilla Firefox"
+      ],
+      "spans": [],
+      "support_ids": [
+        "musique:ea6572d079be17ea8720ea25c164a578b27f80851888875d5c825bbf2e7d6e15",
+        "musique:5f9cae0d1fefdd02d8ffdd19abdd628a66e974f28f3408e2858fb0dc9fc7fa3b"
+      ]
+    },
+    "2hop__613959_135844": {
+      "answers": [
+        "Palmiro Togliatti"
+      ],
+      "spans": [],
+      "support_ids": [
+        "musique:11d4fff0f2527466a534c7148a8884f214e0b01d837fc2f7617b7515a5c3b285",
+        "musique:05c60ea76e5fe61dfb89623a6de71bb0133220ffa43d8961007c7356fbab7006"
+      ]
+    },
+    "2hop__64175_90973": {
+      "answers": [
+        "Lacey Chabert"
+      ],
+      "spans": [],
+      "support_ids": [
+        "musique:d5c1dd18b6721a9201326c02e386a5e26eff38e84af32cc840db0afc30974633",
+        "musique:704f56fe1c542ed8e8dbd3a1618cd8ae56f3c5c80826d27b8a5d03992032bd47"
+      ]
+    },
+    "2hop__827995_159109": {
+      "answers": [
+        "central Atlantic Ocean",
+        "Atlantic Ocean",
+        "Atlantic"
+      ],
+      "spans": [],
+      "support_ids": [
+        "musique:070eefc48e83e113557e59098bfb6e6d11006e38dad7b1e476d23ac04dd82826",
+        "musique:9dde72c570ae62622816f900f4691b0b0c5a6465789033d2cdb5610068e14e9b"
+      ]
+    },
+    "2hop__83800_747874": {
+      "answers": [
+        "Jamie Murray"
+      ],
+      "spans": [],
+      "support_ids": [
+        "musique:99c1a7593227a4cd31706820319f6fea0499487b65419932247c9844fb50d206",
+        "musique:32f9fe9ef18dbafc4b77dbb545c616c3c71c9bf778c385ac0ebf2789c0e76a03"
+      ]
+    },
+    "3hop1__5544_34179_23375": {
+      "answers": [
+        "1948"
+      ],
+      "spans": [],
+      "support_ids": [
+        "musique:c1e6b4445f6a4db64a7e943755ec7f499c6a473807d6b32965cc33e1c8c7116e",
+        "musique:94d6ddc107f35ed569e856581a5b09c951b17d3fb030fd7188b12b6b3764a814",
+        "musique:a22e6b62a9ce28015a8b737e717be809aa609d5c8c4ea322b37e1e0dc9041d7e"
+      ]
+    },
+    "3hop1__622497_160088_49779": {
+      "answers": [
+        "Chris Harrison"
+      ],
+      "spans": [],
+      "support_ids": [
+        "musique:93afdba9d2f916f293cebb937e7822ea1f569671f316d5562856faa4b306e67e",
+        "musique:187ee8d9b42f7ba3554c7f227e5d8bd1169d84d107b3cc23d6a3da8c92cd760c",
+        "musique:7a860c6737d02f737ea7b17225240c6155b70047e6b4999dd168d3be96b44df7"
+      ]
+    },
+    "4hop3__270458_88460_30152_20999": {
+      "answers": [
+        "The dynasty regrouped and defeated the Portuguese"
+      ],
+      "spans": [],
+      "support_ids": [
+        "musique:bb549d667f133e217713c850cddbc3d0ea738cefda5b2422e70b46b470b26e68",
+        "musique:a77154dd6bf1c7cd87e260505b1988c50055940bc0f1ba38e6bef1c84bf2e140",
+        "musique:eacdf5a732a6f284a6f87f52be4e6baab67df405b84aad81f532a489a6b2b7c1",
+        "musique:a7dc2957f3d4395f91e05534c14b3ff34e4597119b82c882f9d0245a380670cb"
+      ]
+    }
+  },
+  "musique-fresh-006": {
+    "2hop__191125_781346": {
+      "answers": [
+        "Eastern Equatoria"
+      ],
+      "spans": [],
+      "support_ids": [
+        "musique:ba8e0e7ebc7c239c378970f5e2e2b057aaeaabbb896207230d4ea0dfbd418285",
+        "musique:3478914e239cba51c0ae49dfd9fe3e0cf50175d8299dd08a5e980d6c01904012"
+      ]
+    },
+    "2hop__269076_449113": {
+      "answers": [
+        "Paris-Charles de Gaulle Airport",
+        "Paris"
+      ],
+      "spans": [],
+      "support_ids": [
+        "musique:e9e5191fa93b1ed89c0fffa010dbafce6e59f20744f500be9b9d57dc3a24182d",
+        "musique:4f475ec3f3f82ad2394133c211906ecb0b821850bfdf0929824b581302b21a28"
+      ]
+    },
+    "2hop__44590_510545": {
+      "answers": [
+        "Jennifer Connelly"
+      ],
+      "spans": [],
+      "support_ids": [
+        "musique:be7117811707d479e5204f0537d2cf50ef89fdb1402918564f4d96ab84854ced",
+        "musique:e59078c585e0940dd82089d97e287c4fa8483ad70611bf1c9e32f10ef1c55563"
+      ]
+    },
+    "2hop__475070_532404": {
+      "answers": [
+        "Amherst"
+      ],
+      "spans": [],
+      "support_ids": [
+        "musique:f3c9c90fce4d3463076038b62867d8aa7f5d9ce65cbc8a141b026b9b8ecf4dc8",
+        "musique:4882af46dcce0c3defb91f638ba711ea0c8502a6d5e70922adf67944230be370"
+      ]
+    },
+    "2hop__503085_110222": {
+      "answers": [
+        "10 June 1819"
+      ],
+      "spans": [],
+      "support_ids": [
+        "musique:a43e06a477be35e592c7c9d95b531ddd93a4a00d14821d0462cfcbdd5b805ee6",
+        "musique:08051389aa88992bb4d7e3f6e0cf294587f394afcdb99ee7e0d2c26616af17d3"
+      ]
+    },
+    "2hop__593866_80026": {
+      "answers": [
+        "Julie Dawn Cole"
+      ],
+      "spans": [],
+      "support_ids": [
+        "musique:85c8d517f831129158993c8191d1f8f054dba5bb8cb531fd00940513596a5806",
+        "musique:0752d641dfb5f98268b2ea4aee836d88a756ce043ca8e22a6d81bec36f95329e"
+      ]
+    },
+    "2hop__690412_526810": {
+      "answers": [
+        "Chao Phraya River"
+      ],
+      "spans": [],
+      "support_ids": [
+        "musique:f5edabf828f45115b63941ac3d09c105f958f8d5aaee758a75db770c3ded6dc2",
+        "musique:c954792c62659c673fb3ba57536ebb82fc2328e0f0fbe8b99334ccd6f4cd8c7f"
+      ]
+    },
+    "2hop__8496_21567": {
+      "answers": [
+        "John Kukuzelis"
+      ],
+      "spans": [],
+      "support_ids": [
+        "musique:e9bc1bcda979b849e4e2a2743b019bcb4dbc76aaa366978c953c0f9ab293149f",
+        "musique:c4b7a75f30575947597b90b97445925017218ff1292bb1017fb750cc09fbd2d6"
+      ]
+    },
+    "3hop1__320697_547811_80702": {
+      "answers": [
+        "Rialto Bridge",
+        "Ponte di Rialto"
+      ],
+      "spans": [],
+      "support_ids": [
+        "musique:a9ef2babbeaae1943ba763f9998a5fbfc52ef1ef9c454ca78df463b18146889f",
+        "musique:15d019633c1c6f3c4a8807c84a40e873973b17824fe81d01bbc9fde53ab138c8",
+        "musique:bd4f6753236dd7f588c14290e4d830dc1cb92e4f4099726324409981fbda1aaa"
+      ]
+    },
+    "3hop1__586087_339990_54675": {
+      "answers": [
+        "Tualatin Mountains"
+      ],
+      "spans": [],
+      "support_ids": [
+        "musique:3eef0415bfce8df7ae6e935767636725381bb8d2f2f1f1cbf85c3dedb18d5a39",
+        "musique:410a253e36f8e2a864339124bb271336bb98b7891129233d5817514b1cc95130",
+        "musique:74921e95563dd571a2c68857ec93ccb0ab31cc1009c2f82468540d4d3ed3b049"
+      ]
+    },
+    "4hop1__324759_765799_282674_759393": {
+      "answers": [
+        "Green Bay"
+      ],
+      "spans": [],
+      "support_ids": [
+        "musique:bdb8515f2b4f896dde7b29067ab8643e72f90214987c6834890a1fda0792d756",
+        "musique:da679a937a7d54dd8d22d22e7fdb1c0c2a96b4ce4de4fa334d2b0b6a7cf9937d",
+        "musique:c130713233c8799c814555feae2dbf7ddd0535a11a1f89f24eea0aa9f4595abc",
+        "musique:52185bd62b97296b8a84386ec4ee939a6dec617feb7b2d10a8d8f0a6e7aed162"
+      ]
+    },
+    "4hop1__341777_508773_85832_745702": {
+      "answers": [
+        "Sebastian Cabot"
+      ],
+      "spans": [],
+      "support_ids": [
+        "musique:3e0586f85002ea2522079f28965f668285094d79647e951da241e80b186115d3",
+        "musique:0fd9d3ff4359bc61156ccb5c94402215f0a202a974e4da36fb1d6bce516a42d5",
+        "musique:2c9758c2c64cef37d2cc7476b2152ca436e31931ac53bbd6af8a3b7fd685f824",
+        "musique:36bdf748a6a1ac5d9b98a9c0465f473f515213da7e6fe58a3138107c5e5dac33"
+      ]
+    }
+  },
+  "musique-fresh-007": {
+    "2hop__104095_40501": {
+      "answers": [
+        "75,000 to 100,000"
+      ],
+      "spans": [],
+      "support_ids": [
+        "musique:c627c123fc1baceb5bb2e226942faf8becc47729d8eee968b1c7116dd99e40e4",
+        "musique:f682ff0ded671b18393ee0e77ae929b7015028f2c23a057be6aa7cade9d3973a"
+      ]
+    },
+    "2hop__146919_29244": {
+      "answers": [
+        "Charles de Gaulle Airport"
+      ],
+      "spans": [],
+      "support_ids": [
+        "musique:50296b01c102af6ec89f1368f1d16355a1097db3c97e7b721369c73afaa7b225",
+        "musique:379ac883eb70d25df0e0a13d708b34b4b12df43208be77f47c20c00538842945"
+      ]
+    },
+    "2hop__166824_185403": {
+      "answers": [
+        "Lega Pro Prima Divisione"
+      ],
+      "spans": [],
+      "support_ids": [
+        "musique:5ead8d385b7e8210ea489fb12eb7e5415ffff250748c4034fe98737d3861f139",
+        "musique:4a46cf8c8025bca43f4b6f70779410fce3f41c0dd48edd204a635ea65897bffa"
+      ]
+    },
+    "2hop__35445_22458": {
+      "answers": [
+        "International Federation of Association Football",
+        "FIFA"
+      ],
+      "spans": [],
+      "support_ids": [
+        "musique:99dca9b1fe95b5923299dffbe76a9424320789113e5e4a63c467d8e8b301cfc7",
+        "musique:a8026718f763889ec9a51ab5030e0e855e0c75ce583866c2524dc786485e6d20"
+      ]
+    },
+    "2hop__386236_350892": {
+      "answers": [
+        "Eton College"
+      ],
+      "spans": [],
+      "support_ids": [
+        "musique:0acb5d89b4cdb7298053de5fd584008ac45db24a4a15cd90c3c196b0a7d76118",
+        "musique:2bf3edea564e0740230e5946fcc3d1f764d60df824a2c87e4db033b6568cb008"
+      ]
+    },
+    "2hop__40485_40502": {
+      "answers": [
+        "2 million"
+      ],
+      "spans": [],
+      "support_ids": [
+        "musique:4be4e198eec6c6117e1e827a82034651fe1103f6b7c6f838dbda30be63d86935",
+        "musique:f682ff0ded671b18393ee0e77ae929b7015028f2c23a057be6aa7cade9d3973a"
+      ]
+    },
+    "2hop__57638_90991": {
+      "answers": [
+        "Greg Oden"
+      ],
+      "spans": [],
+      "support_ids": [
+        "musique:1835c16f1a8c8a64c721a070ce7fdcc80f27cfa75d41261ec2d14be11300de73",
+        "musique:705753a58b84d6ef40d1392d62e7047d659b51044953d9452683fab4a7a1de87"
+      ]
+    },
+    "2hop__72660_319330": {
+      "answers": [
+        "Jessie Woodrow Wilson",
+        "Jessie Woodrow Wilson Sayre"
+      ],
+      "spans": [],
+      "support_ids": [
+        "musique:e0d6228d0ca095187631d570498a1ea0227be136c8c4a482ce4a66fad09f20de",
+        "musique:427956888b1a90b7cba567c86bf1eab3db1cd7b39a2a118e3912c0956c568fc6"
+      ]
+    },
+    "2hop__754753_57816": {
+      "answers": [
+        "100"
+      ],
+      "spans": [],
+      "support_ids": [
+        "musique:0cd2a9f63f982c35d7c5db2f2ef7c5196f5f9a2a408eec19550749d181170459",
+        "musique:fd8c56549d12cc23402d236b0deb3473661c85d35a2aa34b2f14bd57c6176111"
+      ]
+    },
+    "2hop__998_25855": {
+      "answers": [
+        "PowerShare"
+      ],
+      "spans": [],
+      "support_ids": [
+        "musique:77e8333b2422a45617d2eae8750ea169366ccbc7fa9a627968c2b4fa2d5f2ba2",
+        "musique:81b5441b701fd6868cbd8b39f0916458776e2d02ba7ecffb209892e10aaef96b"
+      ]
+    },
+    "3hop1__831162_831637_91775": {
+      "answers": [
+        "Sea, Air, and Land"
+      ],
+      "spans": [],
+      "support_ids": [
+        "musique:1034fb78c5aa5c40e0181edb906576843cde073cbffba23c05a56c7dd4f678db",
+        "musique:f9c952639cf913932c332fece01913984b24998a9f9f6e0ba40d1f4f679aaea6",
+        "musique:382527c32ef1ff618b911f0446e4bc755a3bb6c6dd9f43f172d0ce3650629e20"
+      ]
+    },
+    "4hop1__726152_153080_159767_81096": {
+      "answers": [
+        "Mario Andretti"
+      ],
+      "spans": [],
+      "support_ids": [
+        "musique:2d5eb4dd2e2465e56e786bee78b9dd3970665ebcc8341dc6e00aa05c2eec4e31",
+        "musique:e00b280a5fc37898525c7341fde1a1fa462bef66a6621420b18cd61abd29fca5",
+        "musique:ab2cfa973b32c3292c56e51543ad54c20a0ce77f06d8bce5008bc768cd1adcee",
+        "musique:0f6266998d441a59ddd82184706b8e1b432177c2606ba4e27102e1241e2a17b0"
+      ]
+    }
+  },
+  "musique-fresh-008": {
+    "2hop__125412_544665": {
+      "answers": [
+        "Menachem Mendel Schneersohn"
+      ],
+      "spans": [],
+      "support_ids": [
+        "musique:c13ce210ae43e4c8e4c1f8366eee0d78fe7feb906bd5489ed47ac9a9bf756052",
+        "musique:bf698879c6f2f46b248a73b01dd7c6bbec02e68c732ed0f0a3932a82ae9a69ec"
+      ]
+    },
+    "2hop__132929_684936": {
+      "answers": [
+        "BAC"
+      ],
+      "spans": [],
+      "support_ids": [
+        "musique:32ede185d55ac6ad9132807dbe4484fd14d76555176a36c619141e47ba001de0",
+        "musique:69bbd701f47837227767a4cf50914695770d733bdc3e1afa7e4d36a1afa4acdd"
+      ]
+    },
+    "2hop__179149_396277": {
+      "answers": [
+        "Doctor De Soto"
+      ],
+      "spans": [],
+      "support_ids": [
+        "musique:d7ef8dd6c11c0cb649b9373c1ddde87eb8fa2855dbbb7f3ed887ed4d17347dd8",
+        "musique:bafb9790070397a5ff2edf2310bd3b898f079da7956a7792eca775b87ff0da3d"
+      ]
+    },
+    "2hop__25396_212301": {
+      "answers": [
+        "Arthur Peel",
+        "1st Viscount Peel",
+        "Arthur Peel, 1st Viscount Peel"
+      ],
+      "spans": [],
+      "support_ids": [
+        "musique:c5a1b6cdd173c6a05cc2f914dd5812b207fa845362b9044622e9c5668ab6370c",
+        "musique:0bc91faa7ef5931f8357f845c5c85b0bfbe5175fa1206eede11f48ea7c8b94eb"
+      ]
+    },
+    "2hop__341176_711757": {
+      "answers": [
+        "Gmina Ryki",
+        "Ryki"
+      ],
+      "spans": [],
+      "support_ids": [
+        "musique:8980f2913e2ba8d69094598dca856c6a66b33af06a77a12890d5bc4c821dca71",
+        "musique:b73de893de6deda8d251f80f9daa215ba95a5152c91cfd28635b9ce2689a22e2"
+      ]
+    },
+    "2hop__341305_332933": {
+      "answers": [
+        "Van Horn"
+      ],
+      "spans": [],
+      "support_ids": [
+        "musique:40288839edf48d93d45c9a0a7a9a49f488b9b48aae064e571f92efab41b9de79",
+        "musique:0da228e83eaafd88d48aaa66568b61f977601b9ea0c4f8c464d50d7e62867e70"
+      ]
+    },
+    "2hop__390055_82341": {
+      "answers": [
+        "in Northern Florida",
+        "Northern Florida"
+      ],
+      "spans": [],
+      "support_ids": [
+        "musique:e2eeedc78ea66a13c59ba312b847a2770d0bae84820890b9520d95a2cff7a263",
+        "musique:d00c9bb9f08f2aefec39916b441e0f3dac9442e623f042766d5041f033fe39d0"
+      ]
+    },
+    "2hop__62020_158262": {
+      "answers": [
+        "1848"
+      ],
+      "spans": [],
+      "support_ids": [
+        "musique:e5d31a98b0731cf79fe958da6285e47072993ad2ede646f21bfc664b3fc2bdd5",
+        "musique:cc0129490dd91fce0bf6cebb3b927f0555211cd77ac24c076a215bf434021169"
+      ]
+    },
+    "2hop__6265_718451": {
+      "answers": [
+        "physic",
+        "Physic"
+      ],
+      "spans": [],
+      "support_ids": [
+        "musique:51d6abdcd8e2dc820ba61612c8292af080e497829d7271c90ce34912bc704109",
+        "musique:c873d9d37616e1e6d79d4b253f2fc5d7f119a96169c99c699117735014edf4d9"
+      ]
+    },
+    "2hop__763380_74735": {
+      "answers": [
+        "``Hey Jude ''",
+        "Hey Jude"
+      ],
+      "spans": [],
+      "support_ids": [
+        "musique:8695a42b61b0e1aeaa2c9ede6cb0e34eca5243e864da72b106a07b130e9af5b0",
+        "musique:d304cb87a8e98fe08af5ca1a2b3b9b2f7ca936ac1543d1519ee1b6f745709a26"
+      ]
+    },
+    "2hop__809785_606637": {
+      "answers": [
+        "Secret City Records"
+      ],
+      "spans": [],
+      "support_ids": [
+        "musique:bf944588c546dbdcda830d353c3fee791cfe8f7f5ad53c1dfef419509d16bdfc",
+        "musique:94d86fdab15980340be75c583ea4a8682e85a9ab09370da51abcb0f27b1d204b"
+      ]
+    },
+    "3hop1__210639_147339_51423": {
+      "answers": [
+        "Casa Loma"
+      ],
+      "spans": [],
+      "support_ids": [
+        "musique:a4f6302d5db85f1a6d3bbf391ae7fd398ba0c8826f57a806f74fd5a88a0626ed",
+        "musique:bc71004d7fb970181941a4e61c0bcdc2bb77ec60b9999ac221a9f505c1a1d5d2",
+        "musique:02a0ecea403c1d08a296c49786f0b0cd598427922c3a7bdc23937eb68fbae82f"
+      ]
+    }
+  },
+  "musique-fresh-009": {
+    "2hop__10122_18974": {
+      "answers": [
+        "Chen Zheng"
+      ],
+      "spans": [],
+      "support_ids": [
+        "musique:0d4dbba6babec937f44ec2a16e0add3e9087dc1bfb15b7c7ee532169bb5cdbbe",
+        "musique:01c52f946d558571287073c7c6ca74d0b68994b315f43d8f05c620b2a0bd21b9"
+      ]
+    },
+    "2hop__115515_779396": {
+      "answers": [
+        "University of Glasgow"
+      ],
+      "spans": [],
+      "support_ids": [
+        "musique:b5894f9487d0b5c5a18fd6a58e5892f24cce49675bb5fa4b7c45e2d3df3bffbf",
+        "musique:e1ae58e9c233d613f03e714145e42a5086a19b0072d92228c083237868ce1390"
+      ]
+    },
+    "2hop__124412_402641": {
+      "answers": [
+        "Chiang Hsiao-wu",
+        "Alex Chiang"
+      ],
+      "spans": [],
+      "support_ids": [
+        "musique:fef86ecb91a0f676f4c4ed49a59a6470f2eae70edf0b75801f24fd6233b5270e",
+        "musique:27a2bd4f5ae94bf9aca13174306200500430fc655e6ff05bd7d69b74d2e9f249"
+      ]
+    },
+    "2hop__30384_30351": {
+      "answers": [
+        "the Austrian government",
+        "Austria",
+        "AT",
+        "at"
+      ],
+      "spans": [],
+      "support_ids": [
+        "musique:8ff54fb3d11848236e018824d001844db8c52509ec6bc4247c69755d8489afee",
+        "musique:4f6ecaf5acc1ff601eda2963694af8a2c9a609f7296c85edfd4a2a5fb04d4021"
+      ]
+    },
+    "2hop__312223_144857": {
+      "answers": [
+        "Clatskanie",
+        "Clatskanie, Oregon"
+      ],
+      "spans": [],
+      "support_ids": [
+        "musique:2ada89ff399683758d5f6a7aac5e75385b4ce582a26e6378b7ec47a1d5b54257",
+        "musique:e0ec439971e04b0b4fbb04a02c8b9786dc124455270d6c82d65cd7d282d3ea84"
+      ]
+    },
+    "2hop__347_59409": {
+      "answers": [
+        "three different relationships he had in the past"
+      ],
+      "spans": [],
+      "support_ids": [
+        "musique:93939e4dcda97d5939fea13217f1f0e884e0ead2d10a2759d4b01fcc660fe46c",
+        "musique:098ecb87784c370a1eb50914eb5859d0c5905e578026ae36d98f26f23f12efeb"
+      ]
+    },
+    "2hop__44652_165532": {
+      "answers": [
+        "Sherry Boucher"
+      ],
+      "spans": [],
+      "support_ids": [
+        "musique:6e7fc2d96b9084e79d7639c5900d42ecfbb0eb496d0c75e1070638c77f02d491",
+        "musique:b553e400fb11cfc08e89d4acfe876828b296d6071ea80f3dc294cae13549bb2b"
+      ]
+    },
+    "2hop__47257_43786": {
+      "answers": [
+        "Washington, D.C.",
+        "Washington",
+        "D.C.",
+        "District of Columbia"
+      ],
+      "spans": [],
+      "support_ids": [
+        "musique:6ca9e582a95109383946f9bd4462ddb968e69149a743709c987a0651e53accb9",
+        "musique:fcc08aa5e7aaf4844656a4deb4bcd6f589aa5cb829e9b8d25b90fa04b0f2e18b"
+      ]
+    },
+    "2hop__67956_463572": {
+      "answers": [
+        "MGM Records",
+        "MGM"
+      ],
+      "spans": [],
+      "support_ids": [
+        "musique:776cde0098974badcd06a38d4a0f7285f0824e1205db59c39ddd2b33a9d6d2dc",
+        "musique:668a3c892016d72a9c8e3fabc68ea16f4bea9f7f85f582130c86d2670ba6d8b3"
+      ]
+    },
+    "2hop__95673_62765": {
+      "answers": [
+        "Dathan"
+      ],
+      "spans": [],
+      "support_ids": [
+        "musique:d164b2f599882a89302cff3e6aa3af7828d09dbff1a0670d0abc1df593b203e7",
+        "musique:e85644cbe11e0f74bda3ab521e55d4137e1be38b906fdc3362ea83df1f701ce1"
+      ]
+    },
+    "3hop1__158848_66089_86107": {
+      "answers": [
+        "Adulis",
+        "Aduli"
+      ],
+      "spans": [],
+      "support_ids": [
+        "musique:d6c6d777e7a45d5444fc641b4ecab293d1f4cd4cd6c7410c3a3fc6294951d1df",
+        "musique:6615e55129b561de948f55f5a009401ef192bf52fa3e5ef0a025e8ff697d98c6",
+        "musique:504bc63a8a78c0917db0683a659196b65701799a18914eaf7eef055ed7bf0c59"
+      ]
+    },
+    "4hop3__794915_466199_695123_72134": {
+      "answers": [
+        "1839"
+      ],
+      "spans": [],
+      "support_ids": [
+        "musique:f1be5653cb15bde0a1ca2b0c83c5b1dfc0f5b4b01d6c5a14051abe69a506aef1",
+        "musique:175daf89d594f52dc8551591fdb6b0647deb1cdaf9d70547d8f675111c63b4e3",
+        "musique:2c06665ac03e75814070f13c588f6f614387232b96f78e31bd7b6edf77ff72ef",
+        "musique:9192e544bb3be3ccb70a4ca78d07a73936588824c2cbdd1ea39cfc0ba3cc95ed"
+      ]
+    }
+  }
+}

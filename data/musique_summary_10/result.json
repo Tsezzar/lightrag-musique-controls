@@ -1,0 +1,44 @@
+{
+  "hypotheses": "Does prose made from LightRAG records improve answer quality over query-conditioned plain text summarization of the same sources?",
+  "questions": 120,
+  "corpora": 10,
+  "responses": 240,
+  "equal_context_pairs": 120,
+  "equal_full_prompt_pairs": 120,
+  "mean_context_tokens": 3166.1666666666665,
+  "means": {
+    "GRAPH_PROSE": 0.2558130279402209,
+    "TEXT_SUMMARY": 0.4756221541507029
+  },
+  "contrast": {
+    "estimate": -0.219809126210482,
+    "interval": [
+      -0.28700041672337506,
+      -0.14778769004430897
+    ],
+    "independent_corpora": 10,
+    "source_counts": {
+      "musique": 10
+    },
+    "source_weights": "equal",
+    "resamples": 20000,
+    "alpha": 0.05,
+    "seed": 20261110,
+    "practical_margin": 0.02,
+    "conclusion": "practically_worse",
+    "corpus_deltas": {
+      "musique-fresh-000": -0.4166666666666667,
+      "musique-fresh-001": -0.2954545454545454,
+      "musique-fresh-002": -0.1970695970695971,
+      "musique-fresh-003": -0.2314814814814815,
+      "musique-fresh-004": -0.27430856861388836,
+      "musique-fresh-005": -0.18452380952380948,
+      "musique-fresh-006": 0.0,
+      "musique-fresh-007": -0.25572082379862693,
+      "musique-fresh-008": -0.27976190476190477,
+      "musique-fresh-009": -0.06310386473429952
+    }
+  },
+  "protocol_sha256": "d694d806cf74bd0d4fb40fec5d39d0c43a82d15f388e9aa02f9c80cb2d81751b",
+  "cohort_sha256": "a1b19005f236b44857d61d27a6907fd351cdab34edee6abfd9aec8e000d8e5bf"
+}
